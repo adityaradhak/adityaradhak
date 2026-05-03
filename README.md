@@ -36,7 +36,7 @@ Aspiring actuary with a B.S. in Mathematics and minor in Statistics from UC Irvi
 
 ## Featured projects
 
-### Project 1 title
+### Auto Insurance Portfolio Analysis
 Simulated and analyzed a 10,000-policy personal auto insurance portfolio to evaluate pricing adequacy, risk segmentation, and profitability. Built end-to-end: data generation in Python, analysis in PostgreSQL, and visualization in Excel.  
 → [auto-insurance-portfolio-analysis](https://github.com/adityaradhak/auto-insurance-portfolio-analysis)
 
@@ -60,7 +60,7 @@ Short Description
 
 ## Currently working on
 - Preparing for Exam MAS-I / Exam STAM
-- Expanding my actuarial project with real world data
+- Expanding my actuarial project with geographic ratings
 
 ---
 
