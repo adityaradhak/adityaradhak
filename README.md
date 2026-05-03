@@ -37,8 +37,8 @@ Aspiring actuary with a B.S. in Mathematics and minor in Statistics from UC Irvi
 ## Featured projects
 
 ### Project 1 title
-Short Description  
-→ [repo name](github link)
+Simulated and analyzed a 10,000-policy personal auto insurance portfolio to evaluate pricing adequacy, risk segmentation, and profitability. Built end-to-end: data generation in Python, analysis in PostgreSQL, and visualization in Excel.  
+→ [auto-insurance-portfolio-analysis](https://github.com/adityaradhak/auto-insurance-portfolio-analysis)
 
 ### Project 2 title
 Short Description  
