@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Aspiring actuary with a B.S. in Mathematics and minor in Statistics from UC Irvine. I passed Exams P and FM and am actively searching for entry level roles.
+Aspiring actuary with a B.S. in Mathematics and minor in Statistics from UC Irvine. I have passed Exams P and FM and am actively searching for entry level roles.
 
 ---
 
