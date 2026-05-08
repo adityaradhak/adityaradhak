@@ -36,16 +36,19 @@ Aspiring actuary with a B.S. in Mathematics and minor in Statistics from UC Irvi
 
 ## Featured projects
 
-### Auto Insurance Portfolio Analysis
+### 🚗 Auto Insurance Portfolio Analysis
 Simulated and analyzed a 10,000-policy personal auto insurance portfolio to evaluate pricing adequacy, risk segmentation, and profitability. Built end-to-end: data generation in Python, analysis in PostgreSQL, and visualization in Excel.  
+`Python` `PostgreSQL` `Excel`  
 → [auto-insurance-portfolio-analysis](https://github.com/adityaradhak/auto-insurance-portfolio-analysis)
 
-### Project 2 title
-Short Description  
-→ [repo name](github link)
+### 🏠 Bridge the Gap — Dublin Airbnb Market Analysis
+Team project submitted to the UCI Atlantis Datathon 2024. Analyzed two weeks of Dublin Airbnb booking data to characterize the market and identify drivers of successful transactions. Built logistic regression and random forest models achieving 81–90% accuracy at predicting booking conversion. 
+`Python` `Pandas` `scikit-learn` `Plotly`
+→ [bridge-the-gap](https://github.com/adityaradhak/bridge-the-gap)
 
-### Project 3 title
-Short Description  
+### 🎮 Video Game Sales
+Exploratory analysis of 16,000+ video game titles (SOA VBT data) examining regional sales trends, publisher dominance, and genre preferences. Used linear regression to model Japanese sales and a K-Nearest Neighbors classifier to predict release platform. Completed as a course project for Math 10 at UCI.  
+`Python` `Pandas` `Altair` `scikit-learn`  
 → [repo name](github link)
 
 ### Project 4 title
