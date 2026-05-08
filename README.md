@@ -51,14 +51,6 @@ Exploratory analysis of 16,000+ video game titles (SOA VBT data) examining regio
 `Python` `Pandas` `Altair` `scikit-learn`   
 → [video-game-sales](https://github.com/adityaradhak/video-game-sales)
 
-### Project 4 title
-Short Description  
-→ [repo name](github link)
-
-### Project 5 title
-Short Description  
-→ [repo name](github link)
-
 ---
 
 ## Currently working on
