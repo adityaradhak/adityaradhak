@@ -60,7 +60,7 @@ Short Description
 
 ## Currently working on
 - Preparing for Exam MAS-I / Exam STAM
-- Expanding my actuarial project with geographic ratings
+- Expanding my auto insurance portfolio with geographic ratings
 
 ---
 
