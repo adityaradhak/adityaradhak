@@ -49,7 +49,7 @@ Team project submitted to the UCI Atlantis Datathon 2024. Analyzed two weeks of 
 ### 🎮 Video Game Sales
 Exploratory analysis of 16,000+ video game titles (SOA VBT data) examining regional sales trends, publisher dominance, and genre preferences. Used linear regression to model Japanese sales and a K-Nearest Neighbors classifier to predict release platform. Completed as a course project for Math 10 at UCI.  
 `Python` `Pandas` `Altair` `scikit-learn`   
-→ [repo name](github link)
+→ [video-game-sales](https://github.com/adityaradhak/video-game-sales)
 
 ### Project 4 title
 Short Description  
