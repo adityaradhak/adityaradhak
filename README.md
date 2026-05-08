@@ -42,13 +42,13 @@ Simulated and analyzed a 10,000-policy personal auto insurance portfolio to eval
 → [auto-insurance-portfolio-analysis](https://github.com/adityaradhak/auto-insurance-portfolio-analysis)
 
 ### 🏠 Bridge the Gap — Dublin Airbnb Market Analysis
-Team project submitted to the UCI Atlantis Datathon 2024. Analyzed two weeks of Dublin Airbnb booking data to characterize the market and identify drivers of successful transactions. Built logistic regression and random forest models achieving 81–90% accuracy at predicting booking conversion. 
-`Python` `Pandas` `scikit-learn` `Plotly`
+Team project submitted to the UCI Atlantis Datathon 2024. Analyzed two weeks of Dublin Airbnb booking data to characterize the market and identify drivers of successful transactions. Built logistic regression and random forest models achieving 81–90% accuracy at predicting booking conversion.   
+`Python` `Pandas` `scikit-learn` `Plotly`  
 → [bridge-the-gap](https://github.com/adityaradhak/bridge-the-gap)
 
 ### 🎮 Video Game Sales
 Exploratory analysis of 16,000+ video game titles (SOA VBT data) examining regional sales trends, publisher dominance, and genre preferences. Used linear regression to model Japanese sales and a K-Nearest Neighbors classifier to predict release platform. Completed as a course project for Math 10 at UCI.  
-`Python` `Pandas` `Altair` `scikit-learn`  
+`Python` `Pandas` `Altair` `scikit-learn`   
 → [repo name](github link)
 
 ### Project 4 title
