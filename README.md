@@ -29,8 +29,8 @@ Aspiring actuary with a B.S. in Mathematics and minor in Statistics from UC Irvi
 
 ## Technical skills
 **Languages:** Excel/VBA, Python, SQL, R, MATLAB
-**Libraries:** Pandas, NumPy, Matplotlib, scikitlearn  
-**Topics:** Probability & statistics, Financial Mathematics, Linear Algebra, Numerical Analysis, Data Science
+**Libraries:** Pandas, NumPy, Altair, scikitlearn  
+**Topics:** Probability & statistics, Financial Mathematics, Machine Learning, Data Science
 
 ---
 
